@@ -21,7 +21,7 @@
 ```python
 class Hariharanaj:
 
-    role        = "Undergraduate CS Student"
+    role        = "Undergraduate CS AIML Student"
     focus       = ["Natural Language Processing", "Deep Learning", "MLOps & Deployment"]
     building    = "Autonomous AI agents with durable memory & fault-tolerant execution"
     stack       = ["PyTorch", "LangGraph", "FastAPI", "Neo4j", "Qdrant", "Docker"]
